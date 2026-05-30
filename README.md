@@ -2,6 +2,15 @@
 
 A full-stack Task Manager Application built using React, Node.js, Express, MongoDB Atlas, and JWT Authentication.
 
+## Live Demo
+
+Frontend:
+https://task-manager-app-five-ivory.vercel.app
+
+Backend API:
+https://task-manager-app-1hkf.onrender.com
+
+
 ## Features
 
 * User Registration
